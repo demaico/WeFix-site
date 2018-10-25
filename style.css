@@ -1,0 +1,158 @@
+*
+{
+margin-top: 0px;
+margin-left: 0px;
+}
+
+/* Google Fonts */
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+
+body
+{
+    height: 100%;
+    height: 300px;
+}
+
+header
+{
+    background-image: url(img/bg5.png);
+        height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background: 
+        
+}
+
+.logo
+{
+    margin-left: 0px;
+    margin-top: -40px;
+    float: left;
+}
+
+.logo h1
+{
+    margin-top: 10px;
+    font-size: 60px;
+    font-family: capsuula;
+    color: white;
+}
+
+.logo p
+{
+    margin-top: -75px;
+    margin-left: 140px;
+    font-family: capsuula;
+    font-size: 20px;
+    color: white;
+}
+
+.nav-bar
+{
+    margin-top: 25px;
+    float: right;    
+    margin-right: 15px;
+    list-style: none;
+}
+
+.nav-bar li a
+{
+    font-family: montserrat;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+
+.nav-bar li
+{
+    display: inline-block;
+    
+}
+
+.active
+{
+    border: 1px solid white;
+}
+
+.nav-bar li a:hover
+{
+     border: 1px solid white;
+    
+}
+
+footer
+{
+    background-color: white;
+    height: 30px;
+}
+
+.ftrtext p
+{
+    padding-top: 10px;
+    text-align: center;
+    color: #C8C8C8;
+    font-size: 11px;
+    font-family: montserrat;
+}
+
+.ftrlogo
+{
+    
+}
+
+#box1
+{
+    height: 360px;
+    width: 1280px;
+    background-color: #262626;
+}
+
+#box2
+{
+    height: 5px;
+}
+
+#box3
+{
+    height: 1000px;
+}
+
+.box1p1
+{
+    margin-bottom: px;
+    font-family: montserrat;
+    font-size: 50px;
+    text-align: center;
+    color: #C8C8C8;
+}
+
+.box1p2
+{
+    font-family: montserrat;
+    font-size: 40px;
+    text-align: center;
+    color: #C8C8C8;
+    padding-bottom: 70px;
+}
+
+.logofoot
+{
+    display: block;
+    margin: 0 auto;
+    
+}
+
+.line {
+      position: relative;
+      top: 50%;
+      width: 10em;
+      margin: 0 auto;
+      font-size: 180%;
+      white-space: nowrap;
+      
+      color: black;
+      font-family: 'Anonymous Pro', monospace;
+      transition: all 1s ease-in;
+}
+
